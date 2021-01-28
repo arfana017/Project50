@@ -5,9 +5,31 @@ justify-content: space-between;
 
 }
 
+body {
+
+    background-color: whitesmoke;
+
+}
+
 .grid {
 
 display: flex;
 flex-wrap: wrap;
+
+}
+
+.grid img{
+
+border: 2px solid black;
+border-radius: 50px;
+
+}
+
+.origami {
+
+background-color: rgb(80, 121, 122);
+
+width: 310px;
+font-family: fantasy;
 
 }
